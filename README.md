@@ -7,6 +7,7 @@
  <li>Goggaðu (<i>e. fork</i>) í þessa geymslu (<i>e. Repository</i>) yfir á þinn GitHub reikning.</li>
  <li>Farðu eftir verklýsingunni í skjalinu <i>"Einstaklingsverkefni-3onn.pdf"</i> við að leysa verkefnið</li>
  <li>Í skjalinu <i> "github_verkefni-glosur.docx </i> er hægt að sjá vinnuferlið við að stofna þessa geymslu</li>
+ <li>halló hvað segirðu?|</li>
 </ol>
 
 ##Námsmat:
